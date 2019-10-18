@@ -1,0 +1,37 @@
+B:\BusinessManagementSystem\BusinessManagementSystem\bin\Debug\BusinessManagementSystem.exe.config
+B:\BusinessManagementSystem\BusinessManagementSystem\bin\Debug\BusinessManagementSystem.exe
+B:\BusinessManagementSystem\BusinessManagementSystem\bin\Debug\BusinessManagementSystem.pdb
+B:\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.csprojAssemblyReference.cache
+B:\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.CategoryUI.resources
+B:\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.Properties.Resources.resources
+B:\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.csproj.GenerateResource.cache
+B:\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.csproj.CoreCompileInputs.cache
+B:\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.exe
+B:\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.pdb
+B:\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.CustomerUI.resources
+G:\BITM Final Projects\Final1\BusinessManagementSystem\BusinessManagementSystem\bin\Debug\BusinessManagementSystem.exe.config
+G:\BITM Final Projects\Final1\BusinessManagementSystem\BusinessManagementSystem\bin\Debug\BusinessManagementSystem.exe
+G:\BITM Final Projects\Final1\BusinessManagementSystem\BusinessManagementSystem\bin\Debug\BusinessManagementSystem.pdb
+G:\BITM Final Projects\Final1\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.csprojAssemblyReference.cache
+G:\BITM Final Projects\Final1\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.CategoryUI.resources
+G:\BITM Final Projects\Final1\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.CustomerUI.resources
+G:\BITM Final Projects\Final1\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.ProductUI.resources
+G:\BITM Final Projects\Final1\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.Properties.Resources.resources
+G:\BITM Final Projects\Final1\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.SupplierUi.resources
+G:\BITM Final Projects\Final1\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.csproj.GenerateResource.cache
+G:\BITM Final Projects\Final1\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.csproj.CoreCompileInputs.cache
+G:\BITM Final Projects\Final1\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.exe
+G:\BITM Final Projects\Final1\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.pdb
+H:\Final1\BusinessManagementSystem\BusinessManagementSystem\bin\Debug\BusinessManagementSystem.exe.config
+H:\Final1\BusinessManagementSystem\BusinessManagementSystem\bin\Debug\BusinessManagementSystem.exe
+H:\Final1\BusinessManagementSystem\BusinessManagementSystem\bin\Debug\BusinessManagementSystem.pdb
+H:\Final1\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.csprojAssemblyReference.cache
+H:\Final1\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.CategoryUI.resources
+H:\Final1\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.CustomerUI.resources
+H:\Final1\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.ProductUI.resources
+H:\Final1\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.Properties.Resources.resources
+H:\Final1\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.SupplierUi.resources
+H:\Final1\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.csproj.GenerateResource.cache
+H:\Final1\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.csproj.CoreCompileInputs.cache
+H:\Final1\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.exe
+H:\Final1\BusinessManagementSystem\BusinessManagementSystem\obj\Debug\BusinessManagementSystem.pdb
